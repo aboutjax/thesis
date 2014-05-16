@@ -1,0 +1,12 @@
+{
+  "generator": "site",
+  "title": "Future Christchurch",
+  "description": "Towards an Efficient Economy",
+  "home": "http://jackylee.co",
+  "links": {
+    "home": "http://www.jackylee.co",
+    "about": "http://www.jackylee.co/profile",
+    "issues": false,
+    "contribute": false
+  }
+}
